@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>664770637444-cfkak26gna9sqadpufkktk8vhpkimbl3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.664770637444-cfkak26gna9sqadpufkktk8vhpkimbl3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>664770637444-1vvo7kjd4sgr8ec0icgm9oh9766ccqdr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGJaDivV-AXUTBXz7Ubf60w0Bjy3lhnJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664770637444</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.market.benha</string>
+	<key>PROJECT_ID</key>
+	<string>benha-market</string>
+	<key>STORAGE_BUCKET</key>
+	<string>benha-market.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664770637444:ios:2ec396a4cb596356f29cd1</string>
+</dict>
+</plist>
